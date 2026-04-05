@@ -190,4 +190,4 @@ In 2–3 sentences, answer:
 
 ## 📤 Share Your Work
 
-Post your Challenge 3 output and reflection in **Discord** under `#assignments`. React to at least one classmate's post.
+Post your Challenge 3 output and reflection in the **#peer-reviews** Discord channel to get feedback from peers. For questions, post in **#questions**.
